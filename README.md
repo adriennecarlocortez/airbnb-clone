@@ -1,4 +1,16 @@
-# React + Vite
+# About AirBnB Clone
+
+This is my third project using React. It's main focus is to use [props](https://legacy.reactjs.org/docs/components-and-props.html) to fetch the data from the data file.
+
+## Quick Start
+
+```
+cd airbnb-clone
+npm install
+npm run dev
+```
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
