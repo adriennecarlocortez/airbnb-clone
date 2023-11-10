@@ -3,7 +3,7 @@
 This is my third project using React. It's main focus is to use [props](https://legacy.reactjs.org/docs/components-and-props.html) to fetch the data from the data file.
 
 - [@Figma](https://www.figma.com/file/NPEagvhxnn9mDUBlmptPmE/Airbnb-Experiences-(Copy)?type=design&mode=design&t=xjbVFIUfSKkit89F-1)
-- [@Netlify] (https://adrienne-airbnb-clone.netlify.app/)
+- [@Netlify](https://adrienne-airbnb-clone.netlify.app/)
 
 # Requirements:
 
